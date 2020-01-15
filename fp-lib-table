@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name parts)(type KiCad)(uri C:/Users/JamesCorcoran/Documents/!FRC/git/CANJunction/library)(options "")(descr ""))
+  (lib (name small_gear_footprints)(type KiCad)(uri ${KIPRJMOD}/small_gear_footprints)(options "")(descr ""))
+)
