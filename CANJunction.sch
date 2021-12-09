@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:CANJunction-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -85,4 +84,15 @@ Wire Wire Line
 Connection ~ 5350 3150
 Wire Wire Line
 	5350 3150 7100 3150
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61B30437
+P 7300 5900
+F 0 "H1" H 7400 5946 50  0000 L CNN
+F 1 "MountingHole" H 7400 5855 50  0000 L CNN
+F 2 "_canjunction:mounting_holes" H 7300 5900 50  0001 C CNN
+F 3 "~" H 7300 5900 50  0001 C CNN
+	1    7300 5900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

@@ -20,7 +20,7 @@ U 1 1 5E1EE628
 P 3150 3250
 F 0 "J1" H 3068 2925 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 3068 3016 50  0000 C CNN
-F 2 "" H 3150 3250 50  0001 C CNN
+F 2 "parts:TerminalBlock_Spring_2Pos_3.5mm" H 3150 3250 50  0001 C CNN
 F 3 "~" H 3150 3250 50  0001 C CNN
 	1    3150 3250
 	-1   0    0    1   
@@ -31,7 +31,7 @@ U 1 1 5E1F065F
 P 7000 2800
 F 0 "J3" V 6964 2612 50  0000 R CNN
 F 1 "Screw_Terminal_01x02" V 6873 2612 50  0000 R CNN
-F 2 "" H 7000 2800 50  0001 C CNN
+F 2 "parts:TerminalBlock_Spring_2Pos_3.5mm" H 7000 2800 50  0001 C CNN
 F 3 "~" H 7000 2800 50  0001 C CNN
 	1    7000 2800
 	0    -1   -1   0   
@@ -50,7 +50,7 @@ U 1 1 5E1DBA1C
 P 5250 3550
 F 0 "J2" V 5122 3830 50  0000 L CNN
 F 1 "Screw_Terminal_01x06" V 5213 3830 50  0000 L CNN
-F 2 "" H 5250 3550 50  0001 C CNN
+F 2 "parts:TerminalBlock_Spring_6Pos_3.5mm" H 5250 3550 50  0001 C CNN
 F 3 "~" H 5250 3550 50  0001 C CNN
 	1    5250 3550
 	0    1    1    0   
